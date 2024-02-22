@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning, progressing, and teaching others.
 - 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on any simple projects 
-- 📫 How to reach me admin@cjglawson.com
+- 📫 ZZZZZ
 
 <!---
 Xecil/Xecil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
